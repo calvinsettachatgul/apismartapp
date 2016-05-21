@@ -17,9 +17,9 @@ TODO
 
 ## API Explorer Install
  - Latest version of Node
- - Latest version of Meteor 
+ - Latest version of Meteor
  - Edit smartThingsApi.js and apply your client id and token (get your token via postman or other methods for now)
- 
-In the smartThingsApiExplorer folder run the command "meteor" 
+
+In the smartThingsApiExplorer folder run the command "meteor"
 
 Open a browser and use the address http://localhost:3000
